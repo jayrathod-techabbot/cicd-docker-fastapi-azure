@@ -12,7 +12,7 @@ def root():
 
 @app.get("/new")
 def root():
-    return {"status": "new server is running"}
+    return {"status": "My new endpoint is working"}
 
 
 @app.post("/predict")
