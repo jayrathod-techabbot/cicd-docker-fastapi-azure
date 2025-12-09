@@ -14,7 +14,6 @@ venv/
 
 
 .pytest_cache/
-*.ini
 .env 
 *.md
 *.lock
